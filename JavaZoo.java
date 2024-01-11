@@ -15,7 +15,7 @@ public class JavaZoo
         
     // Change RogerJaffe to the name of your animal class and run the 'main' 
     // method to test your code.  
-    String[] animalList = {"RogerJaffe"};
+    String[] animalList = {"CadenPhan"};
     
     try {
       for (int i=0; i<animalList.length; i++) {
